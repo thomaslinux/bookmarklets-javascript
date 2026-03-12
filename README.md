@@ -8,6 +8,8 @@ https://stackoverflow.com/questions/9104/add-a-bookmark-that-is-only-javascript-
 
 https://en.wikipedia.org/wiki/Bookmarklet
 
+[https://mastercaweb.unistra.fr/actualites/culture-web/bookmarklet/](https://mastercaweb.unistra.fr/actualites/culture-web/bookmarklet/#:~:text=Comment%20cr%C3%A9er%20son%20propre%20bookmarklet%20%3F)
+
 # Instructions
 
 Add bookmarks with this codes :
