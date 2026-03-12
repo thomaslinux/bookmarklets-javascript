@@ -1,1 +1,1 @@
-javascript:(document.querySelectorAll('*').forEach(e => {e.removeAttribute('pattern');e.removeAttribute('required');});)
+javascript:(function() { document.querySelectorAll('*').forEach(e => {         e.removeAttribute('pattern'); e.removeAttribute('required'); })}())
