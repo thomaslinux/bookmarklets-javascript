@@ -23,7 +23,7 @@ javascript:alert('Hello World !');
 Name : Remove all checks of input
 URL :
 ```javascript
-javascript:(document.querySelectorAll('*').forEach(e => {e.removeAttribute('pattern');e.removeAttribute('required');});)
+javascript:(function() { document.querySelectorAll('*').forEach(e => {         e.removeAttribute('pattern'); e.removeAttribute('required'); })}())
 ```
 
 Name : Search current date
