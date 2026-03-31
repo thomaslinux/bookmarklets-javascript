@@ -33,7 +33,7 @@ javascript:window.location='https://duckduckgo.com/?q='+Date()
 ```
 
 Name : WAMP clic to access my projects :
-```
+```javascript
 javascript:(document.querySelectorAll(".projects li:not(.projectsdir)").forEach(projet => {
   projet.innerHTML = '<a href="/' + projet.innerText + '">' + projet.innerText + '</a>'
 })) 
